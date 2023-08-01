@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2023-08-01T22:27:58.907810735</dc:date><meta:editing-duration>PT9M1S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="48" meta:word-count="486" meta:character-count="3059" meta:non-whitespace-character-count="2603"/></office:meta>
+ <office:meta><dc:date>2023-08-01T22:35:23.255891813</dc:date><meta:editing-duration>PT16M25S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="48" meta:word-count="486" meta:character-count="3061" meta:non-whitespace-character-count="2605"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">60634</config:config-item>
@@ -13,8 +13,8 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8668</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">71046</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14164</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">68315</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">60634</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34925</config:config-item>
@@ -394,12 +394,18 @@
    <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="super 58%"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="super 58%" officeooo:rsid="0016b4b0"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="0016b4b0"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -596,31 +602,31 @@
    <text:p text:style-name="P9">4. Primitive widening conversion -</text:p>
    <text:p text:style-name="P9"><draw:frame text:anchor-type="paragraph" draw:z-index="0" draw:name="Text Frame 1" draw:style-name="gr10" draw:text-style-name="P19" svg:width="0.663in" svg:height="0.2835in" svg:x="0.5236in" svg:y="1.1681in">
      <draw:text-box>
-      <text:p text:style-name="P18"><text:span text:style-name="T21">b</text:span><text:span text:style-name="T21">y</text:span><text:span text:style-name="T21">t</text:span><text:span text:style-name="T21">e</text:span></text:p>
+      <text:p text:style-name="P18"><text:span text:style-name="T23">b</text:span><text:span text:style-name="T23">y</text:span><text:span text:style-name="T23">t</text:span><text:span text:style-name="T23">e</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="1" draw:name="Text Frame 2" draw:style-name="gr9" draw:text-style-name="P17" svg:width="0.663in" svg:height="0.2835in" svg:x="2.2272in" svg:y="1.1457in">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T20">s</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">o</text:span><text:span text:style-name="T20">r</text:span><text:span text:style-name="T20">t</text:span></text:p>
+      <text:p text:style-name="P16"><text:span text:style-name="T22">s</text:span><text:span text:style-name="T22">h</text:span><text:span text:style-name="T22">o</text:span><text:span text:style-name="T22">r</text:span><text:span text:style-name="T22">t</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="2" draw:name="Text Frame 3" draw:style-name="gr8" draw:text-style-name="P17" svg:width="0.663in" svg:height="0.2835in" svg:x="3.5291in" svg:y="1.1382in">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T20">i</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20">t</text:span></text:p>
+      <text:p text:style-name="P16"><text:span text:style-name="T22">i</text:span><text:span text:style-name="T22">n</text:span><text:span text:style-name="T22">t</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="3" draw:name="Text Frame 4" draw:style-name="gr7" draw:text-style-name="P17" svg:width="0.663in" svg:height="0.2835in" svg:x="5.1071in" svg:y="1.1382in">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T20">l</text:span><text:span text:style-name="T20">o</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20">g</text:span></text:p>
+      <text:p text:style-name="P16"><text:span text:style-name="T22">l</text:span><text:span text:style-name="T22">o</text:span><text:span text:style-name="T22">n</text:span><text:span text:style-name="T22">g</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="4" draw:name="Text Frame 5" draw:style-name="gr6" draw:text-style-name="P17" svg:width="0.663in" svg:height="0.2835in" svg:x="3.5382in" svg:y="2.1362in">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T20">f</text:span><text:span text:style-name="T20">l</text:span><text:span text:style-name="T20">o</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">t</text:span></text:p>
+      <text:p text:style-name="P16"><text:span text:style-name="T22">f</text:span><text:span text:style-name="T22">l</text:span><text:span text:style-name="T22">o</text:span><text:span text:style-name="T22">a</text:span><text:span text:style-name="T22">t</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="5" draw:name="Text Frame 6" draw:style-name="gr5" draw:text-style-name="P17" svg:width="0.663in" svg:height="0.2835in" svg:x="5.1591in" svg:y="2.1071in">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T20">d</text:span><text:span text:style-name="T20">o</text:span><text:span text:style-name="T20">u</text:span><text:span text:style-name="T20">b</text:span><text:span text:style-name="T20">l</text:span><text:span text:style-name="T20">e</text:span></text:p>
+      <text:p text:style-name="P16"><text:span text:style-name="T22">d</text:span><text:span text:style-name="T22">o</text:span><text:span text:style-name="T22">u</text:span><text:span text:style-name="T22">b</text:span><text:span text:style-name="T22">l</text:span><text:span text:style-name="T22">e</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="6" draw:name="Text Frame 7" draw:style-name="gr4" draw:text-style-name="P17" svg:width="0.663in" svg:height="0.2835in" svg:x="3.522in" svg:y="0.1854in">
      <draw:text-box>
-      <text:p text:style-name="P16"><text:span text:style-name="T20">c</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">r</text:span></text:p>
+      <text:p text:style-name="P16"><text:span text:style-name="T22">c</text:span><text:span text:style-name="T22">h</text:span><text:span text:style-name="T22">a</text:span><text:span text:style-name="T22">r</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:line text:anchor-type="paragraph" draw:z-index="7" draw:name="Line 1" draw:style-name="gr3" draw:text-style-name="P15" svg:x1="4.1571in" svg:y1="2.1362in" svg:x2="5.2563in" svg:y2="1.3945in">
      <text:p/>
@@ -677,9 +683,9 @@
    <text:p text:style-name="P10"><text:span text:style-name="T10">Converting</text:span> a value from one primitive data type to another data type that has a <text:span text:style-name="T11">smaller</text:span> size or a <text:span text:style-name="T11">less</text:span> range <text:span text:style-name="T11">by force</text:span></text:p>
    <text:p text:style-name="P12">For implicit narrowing conversion, the value should be a <text:span text:style-name="T1">complied time constant</text:span> and the specific value should be <text:span text:style-name="T1">within the range of the converting data type</text:span>.</text:p>
    <text:p text:style-name="P12"/>
-   <text:p text:style-name="P14">7. Here we cannot compare int and float considering no of bytes since their storing format is totally different. Float data type is designed to store large numbers. That range is more than integer value range.</text:p>
-   <text:p text:style-name="P14">Int data type limits = <text:span text:style-name="T17">2</text:span><text:span text:style-name="T18">31</text:span><text:span text:style-name="T19"> to 2</text:span><text:span text:style-name="T18">31</text:span><text:span text:style-name="T19"> -1</text:span></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P14">7. Here we cannot compare <text:span text:style-name="T21">long</text:span> and float considering no of b<text:span text:style-name="T21">i</text:span>tes since their storing format is totally different. <text:span text:style-name="T21">Float</text:span> data type is designed to store large numbers. That range is more than integer value range.</text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T21">long</text:span> data type limits = <text:span text:style-name="T17">2</text:span><text:span text:style-name="T19">63</text:span><text:span text:style-name="T20"> to 2</text:span><text:span text:style-name="T19">63</text:span><text:span text:style-name="T20"> -1</text:span></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T20"/></text:p>
   </office:text>
  </office:body>
 </office:document>
